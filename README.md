@@ -1,4 +1,3 @@
-# TOOLS INI DI BUAT OLEH MR.K7C8NG
-# KALIAN BISA KUNJUNGI SOSMED KAMI ig pranata_pasha
-# TEAM InDoNeSiA CYBER ErRoR SySTem
-# Special Thanks to MR.K7C8NG
+# TOOLS THIS IS MADE BY OSUS-PH
+# TEAM Pinoy Eutsec
+# Special Thanks to OSUS-PH
